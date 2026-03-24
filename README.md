@@ -30,3 +30,7 @@ It uses an OpenRouter free model and renders the result as readable markdown in 
 - No saved history yet
 - No auth/rate limiting
 - Advice quality depends on the clarity of the task description
+
+
+Build on Sundai Club on March 24, 2026  
+Sundai Project: https://www.sundai.club/projects/2f3b7bad-5e61-41eb-abd4-1d36e04c37c2
